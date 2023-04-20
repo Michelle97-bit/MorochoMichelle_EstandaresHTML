@@ -89,9 +89,10 @@ img{
 
 /* otro CSS */
 
-.container {
-  position: relative;
-  width: 100%;
+.cambiocolor {
+  background-color: blueviolet;
+  position: absolute;
+  width: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
